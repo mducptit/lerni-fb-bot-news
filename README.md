@@ -2,6 +2,12 @@
 Group facebook: https://www.facebook.com/groups/lerni/
 
 Youtube channel: https://www.youtube.com/channel/UCvVwR21Pb8r06LcZ7n3eR4g
+
+# Get Access Token
+B1: Go to https://m.facebook.com/composer/ocelot/async_loader/?publisher=feed&hc_location=ufi
+B2: Open keyword search mode with the shortcut Ctrl + F, then copy the EAAA... code
+B3: Enjoy it, because it's magical.
+
 # Folder structor
 ```
 ├── news                    
